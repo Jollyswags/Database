@@ -22,5 +22,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/Jollyswags/Database/tree/master/1142-user-activity-for-the-past-30-days-ii) |
 | [1158-market-analysis-i](https://github.com/Jollyswags/Database/tree/master/1158-market-analysis-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Jollyswags/Database/tree/master/1174-immediate-food-delivery-ii) |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/Jollyswags/Database/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
