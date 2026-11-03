@@ -36,5 +36,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Jollyswags/Database/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Jollyswags/Database/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Jollyswags/Database/tree/master/1795-rearrange-products-table) |
+| [1811-find-interview-candidates](https://github.com/Jollyswags/Database/tree/master/1811-find-interview-candidates) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
