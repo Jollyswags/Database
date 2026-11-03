@@ -30,5 +30,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Jollyswags/Database/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Jollyswags/Database/tree/master/1321-restaurant-growth) |
 | [1393-capital-gainloss](https://github.com/Jollyswags/Database/tree/master/1393-capital-gainloss) |
+| [1484-group-sold-products-by-the-date](https://github.com/Jollyswags/Database/tree/master/1484-group-sold-products-by-the-date) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
