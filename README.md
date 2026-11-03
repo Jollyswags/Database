@@ -16,5 +16,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Jollyswags/Database/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1045-customers-who-bought-all-products](https://github.com/Jollyswags/Database/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Jollyswags/Database/tree/master/1070-product-sales-analysis-iii) |
+| [1076-project-employees-ii](https://github.com/Jollyswags/Database/tree/master/1076-project-employees-ii) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
