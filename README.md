@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0185-department-top-three-salaries](https://github.com/Jollyswags/Database/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/Jollyswags/Database/tree/master/0262-trips-and-users) |
+| [0550-game-play-analysis-iv](https://github.com/Jollyswags/Database/tree/master/0550-game-play-analysis-iv) |
 | [0601-human-traffic-of-stadium](https://github.com/Jollyswags/Database/tree/master/0601-human-traffic-of-stadium) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
