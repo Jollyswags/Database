@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Jollyswags/Database/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0601-human-traffic-of-stadium](https://github.com/Jollyswags/Database/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Jollyswags/Database/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0615-average-salary-departments-vs-company](https://github.com/Jollyswags/Database/tree/master/0615-average-salary-departments-vs-company) |
 | [1045-customers-who-bought-all-products](https://github.com/Jollyswags/Database/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Jollyswags/Database/tree/master/1070-product-sales-analysis-iii) |
 | [1076-project-employees-ii](https://github.com/Jollyswags/Database/tree/master/1076-project-employees-ii) |
