@@ -43,5 +43,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-count-the-number-of-experiments](https://github.com/Jollyswags/Database/tree/master/1990-count-the-number-of-experiments) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
 | [3421-find-students-who-improved](https://github.com/Jollyswags/Database/tree/master/3421-find-students-who-improved) |
+| [3475-dna-pattern-recognition](https://github.com/Jollyswags/Database/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
