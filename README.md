@@ -18,5 +18,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Jollyswags/Database/tree/master/1070-product-sales-analysis-iii) |
 | [1076-project-employees-ii](https://github.com/Jollyswags/Database/tree/master/1076-project-employees-ii) |
 | [1077-project-employees-iii](https://github.com/Jollyswags/Database/tree/master/1077-project-employees-iii) |
+| [1113-reported-posts](https://github.com/Jollyswags/Database/tree/master/1113-reported-posts) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 <!---LeetCode Topics End-->
