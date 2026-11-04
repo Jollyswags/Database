@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1484-group-sold-products-by-the-date](https://github.com/Jollyswags/Database/tree/master/1484-group-sold-products-by-the-date) |
 | [1501-countries-you-can-safely-invest-in](https://github.com/Jollyswags/Database/tree/master/1501-countries-you-can-safely-invest-in) |
 | [1527-patients-with-a-condition](https://github.com/Jollyswags/Database/tree/master/1527-patients-with-a-condition) |
+| [1532-the-most-recent-three-orders](https://github.com/Jollyswags/Database/tree/master/1532-the-most-recent-three-orders) |
 | [1667-fix-names-in-a-table](https://github.com/Jollyswags/Database/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Jollyswags/Database/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1789-primary-department-for-each-employee](https://github.com/Jollyswags/Database/tree/master/1789-primary-department-for-each-employee) |
