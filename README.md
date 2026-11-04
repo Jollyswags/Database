@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1070-product-sales-analysis-iii](https://github.com/Jollyswags/Database/tree/master/1070-product-sales-analysis-iii) |
 | [1076-project-employees-ii](https://github.com/Jollyswags/Database/tree/master/1076-project-employees-ii) |
 | [1077-project-employees-iii](https://github.com/Jollyswags/Database/tree/master/1077-project-employees-iii) |
+| [1107-new-users-daily-count](https://github.com/Jollyswags/Database/tree/master/1107-new-users-daily-count) |
 | [1113-reported-posts](https://github.com/Jollyswags/Database/tree/master/1113-reported-posts) |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/Jollyswags/Database/tree/master/1142-user-activity-for-the-past-30-days-ii) |
 | [1158-market-analysis-i](https://github.com/Jollyswags/Database/tree/master/1158-market-analysis-i) |
