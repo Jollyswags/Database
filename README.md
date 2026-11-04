@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1321-restaurant-growth](https://github.com/Jollyswags/Database/tree/master/1321-restaurant-growth) |
 | [1364-number-of-trusted-contacts-of-a-customer](https://github.com/Jollyswags/Database/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
 | [1393-capital-gainloss](https://github.com/Jollyswags/Database/tree/master/1393-capital-gainloss) |
+| [1459-rectangles-area](https://github.com/Jollyswags/Database/tree/master/1459-rectangles-area) |
 | [1484-group-sold-products-by-the-date](https://github.com/Jollyswags/Database/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Jollyswags/Database/tree/master/1527-patients-with-a-condition) |
 | [1667-fix-names-in-a-table](https://github.com/Jollyswags/Database/tree/master/1667-fix-names-in-a-table) |
