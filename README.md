@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jollyswags/Database/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Jollyswags/Database/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jollyswags/Database/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Jollyswags/Database/tree/master/0238-product-of-array-except-self) |
 ## Prefix Sum
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jollyswags/Database/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Jollyswags/Database/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
