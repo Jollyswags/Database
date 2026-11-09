@@ -63,13 +63,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
