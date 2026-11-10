@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Jollyswags/Database/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/Jollyswags/Database/tree/master/0253-meeting-rooms-ii) |
 ## Array
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/Jollyswags/Database/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Jollyswags/Database/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Jollyswags/Database/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Jollyswags/Database/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Jollyswags/Database/tree/master/0238-product-of-array-except-self) |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0253-meeting-rooms-ii](https://github.com/Jollyswags/Database/tree/master/0253-meeting-rooms-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Jollyswags/Database/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
