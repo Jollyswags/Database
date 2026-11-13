@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1459-rectangles-area](https://github.com/Jollyswags/Database/tree/master/1459-rectangles-area) |
 | [1484-group-sold-products-by-the-date](https://github.com/Jollyswags/Database/tree/master/1484-group-sold-products-by-the-date) |
 | [1501-countries-you-can-safely-invest-in](https://github.com/Jollyswags/Database/tree/master/1501-countries-you-can-safely-invest-in) |
+| [1517-find-users-with-valid-e-mails](https://github.com/Jollyswags/Database/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Jollyswags/Database/tree/master/1527-patients-with-a-condition) |
 | [1532-the-most-recent-three-orders](https://github.com/Jollyswags/Database/tree/master/1532-the-most-recent-three-orders) |
 | [1667-fix-names-in-a-table](https://github.com/Jollyswags/Database/tree/master/1667-fix-names-in-a-table) |
