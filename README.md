@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0253-meeting-rooms-ii](https://github.com/Jollyswags/Database/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jollyswags/Database/tree/master/0287-find-the-duplicate-number) |
 | [0941-valid-mountain-array](https://github.com/Jollyswags/Database/tree/master/0941-valid-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Jollyswags/Database/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Jollyswags/Database/tree/master/1512-number-of-good-pairs) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jollyswags/Database/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Jollyswags/Database/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Jollyswags/Database/tree/master/0253-meeting-rooms-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Jollyswags/Database/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
