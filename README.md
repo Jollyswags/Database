@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Jollyswags/Database/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jollyswags/Database/tree/master/0594-longest-harmonious-subsequence) |
 | [0859-buddy-strings](https://github.com/Jollyswags/Database/tree/master/0859-buddy-strings) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Jollyswags/Database/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/Jollyswags/Database/tree/master/1512-number-of-good-pairs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Jollyswags/Database/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
 | [0253-meeting-rooms-ii](https://github.com/Jollyswags/Database/tree/master/0253-meeting-rooms-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jollyswags/Database/tree/master/0594-longest-harmonious-subsequence) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jollyswags/Database/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Jollyswags/Database/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jollyswags/Database/tree/master/0287-find-the-duplicate-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/Jollyswags/Database/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-valid-mountain-array](https://github.com/Jollyswags/Database/tree/master/0941-valid-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Jollyswags/Database/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Jollyswags/Database/tree/master/1512-number-of-good-pairs) |
@@ -178,6 +181,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Jollyswags/Database/tree/master/0594-longest-harmonious-subsequence) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Jollyswags/Database/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/Jollyswags/Database/tree/master/1512-number-of-good-pairs) |
+## Sliding Window
+|  |
+| ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Jollyswags/Database/tree/master/0594-longest-harmonious-subsequence) |
 <!---LeetCode Topics End-->
