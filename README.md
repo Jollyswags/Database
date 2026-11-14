@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jollyswags/Database/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Jollyswags/Database/tree/master/0238-product-of-array-except-self) |
 | [0253-meeting-rooms-ii](https://github.com/Jollyswags/Database/tree/master/0253-meeting-rooms-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Jollyswags/Database/tree/master/0287-find-the-duplicate-number) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jollyswags/Database/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0613-shortest-distance-in-a-line](https://github.com/Jollyswags/Database/tree/master/0613-shortest-distance-in-a-line) |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Jollyswags/Database/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
