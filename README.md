@@ -71,11 +71,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Jollyswags/Database/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Jollyswags/Database/tree/master/0884-uncommon-words-from-two-sentences) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Jollyswags/Database/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Jollyswags/Database/tree/master/0242-valid-anagram) |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Jollyswags/Database/tree/master/0884-uncommon-words-from-two-sentences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jollyswags/Database/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
@@ -155,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Jollyswags/Database/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Counting
+|  |
+| ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/Jollyswags/Database/tree/master/0884-uncommon-words-from-two-sentences) |
 <!---LeetCode Topics End-->
