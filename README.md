@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1841-league-statistics](https://github.com/Jollyswags/Database/tree/master/1841-league-statistics) |
 | [1867-orders-with-maximum-quantity-above-average](https://github.com/Jollyswags/Database/tree/master/1867-orders-with-maximum-quantity-above-average) |
 | [1907-count-salary-categories](https://github.com/Jollyswags/Database/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/Jollyswags/Database/tree/master/1934-confirmation-rate) |
 | [1949-strong-friendship](https://github.com/Jollyswags/Database/tree/master/1949-strong-friendship) |
 | [1965-employees-with-missing-information](https://github.com/Jollyswags/Database/tree/master/1965-employees-with-missing-information) |
 | [1990-count-the-number-of-experiments](https://github.com/Jollyswags/Database/tree/master/1990-count-the-number-of-experiments) |
