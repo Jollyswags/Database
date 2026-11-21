@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1934-confirmation-rate](https://github.com/Jollyswags/Database/tree/master/1934-confirmation-rate) |
 | [1949-strong-friendship](https://github.com/Jollyswags/Database/tree/master/1949-strong-friendship) |
 | [1965-employees-with-missing-information](https://github.com/Jollyswags/Database/tree/master/1965-employees-with-missing-information) |
+| [1972-first-and-last-call-on-the-same-day](https://github.com/Jollyswags/Database/tree/master/1972-first-and-last-call-on-the-same-day) |
 | [1990-count-the-number-of-experiments](https://github.com/Jollyswags/Database/tree/master/1990-count-the-number-of-experiments) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
 | [3421-find-students-who-improved](https://github.com/Jollyswags/Database/tree/master/3421-find-students-who-improved) |
