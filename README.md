@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2991-top-three-wineries](https://github.com/Jollyswags/Database/tree/master/2991-top-three-wineries) |
 | [2994-friday-purchases-ii](https://github.com/Jollyswags/Database/tree/master/2994-friday-purchases-ii) |
 | [2995-viewers-turned-streamers](https://github.com/Jollyswags/Database/tree/master/2995-viewers-turned-streamers) |
+| [3061-calculate-trapping-rain-water](https://github.com/Jollyswags/Database/tree/master/3061-calculate-trapping-rain-water) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
 | [3421-find-students-who-improved](https://github.com/Jollyswags/Database/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Jollyswags/Database/tree/master/3475-dna-pattern-recognition) |
