@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-first-and-last-call-on-the-same-day](https://github.com/Jollyswags/Database/tree/master/1972-first-and-last-call-on-the-same-day) |
 | [1990-count-the-number-of-experiments](https://github.com/Jollyswags/Database/tree/master/1990-count-the-number-of-experiments) |
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/Jollyswags/Database/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
+| [2752-customers-with-maximum-number-of-transactions-on-consecutive-days](https://github.com/Jollyswags/Database/tree/master/2752-customers-with-maximum-number-of-transactions-on-consecutive-days) |
 | [2991-top-three-wineries](https://github.com/Jollyswags/Database/tree/master/2991-top-three-wineries) |
 | [2994-friday-purchases-ii](https://github.com/Jollyswags/Database/tree/master/2994-friday-purchases-ii) |
 | [2995-viewers-turned-streamers](https://github.com/Jollyswags/Database/tree/master/2995-viewers-turned-streamers) |
