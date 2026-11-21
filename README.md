@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3188-find-top-scoring-students-ii](https://github.com/Jollyswags/Database/tree/master/3188-find-top-scoring-students-ii) |
 | [3268-find-overlapping-shifts-ii](https://github.com/Jollyswags/Database/tree/master/3268-find-overlapping-shifts-ii) |
 | [3384-team-dominance-by-pass-success](https://github.com/Jollyswags/Database/tree/master/3384-team-dominance-by-pass-success) |
+| [3401-find-circular-gift-exchange-chains](https://github.com/Jollyswags/Database/tree/master/3401-find-circular-gift-exchange-chains) |
 | [3421-find-students-who-improved](https://github.com/Jollyswags/Database/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Jollyswags/Database/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
