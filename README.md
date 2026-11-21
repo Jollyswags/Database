@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1613-find-the-missing-ids](https://github.com/Jollyswags/Database/tree/master/1613-find-the-missing-ids) |
 | [1635-hopper-company-queries-i](https://github.com/Jollyswags/Database/tree/master/1635-hopper-company-queries-i) |
 | [1645-hopper-company-queries-ii](https://github.com/Jollyswags/Database/tree/master/1645-hopper-company-queries-ii) |
+| [1651-hopper-company-queries-iii](https://github.com/Jollyswags/Database/tree/master/1651-hopper-company-queries-iii) |
 | [1667-fix-names-in-a-table](https://github.com/Jollyswags/Database/tree/master/1667-fix-names-in-a-table) |
 | [1693-daily-leads-and-partners](https://github.com/Jollyswags/Database/tree/master/1693-daily-leads-and-partners) |
 | [1699-number-of-calls-between-two-persons](https://github.com/Jollyswags/Database/tree/master/1699-number-of-calls-between-two-persons) |
