@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1241-number-of-comments-per-post](https://github.com/Jollyswags/Database/tree/master/1241-number-of-comments-per-post) |
 | [1251-average-selling-price](https://github.com/Jollyswags/Database/tree/master/1251-average-selling-price) |
 | [1264-page-recommendations](https://github.com/Jollyswags/Database/tree/master/1264-page-recommendations) |
+| [1270-all-people-report-to-the-given-manager](https://github.com/Jollyswags/Database/tree/master/1270-all-people-report-to-the-given-manager) |
 | [1280-students-and-examinations](https://github.com/Jollyswags/Database/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Jollyswags/Database/tree/master/1321-restaurant-growth) |
 | [1364-number-of-trusted-contacts-of-a-customer](https://github.com/Jollyswags/Database/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
