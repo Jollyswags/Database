@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3384-team-dominance-by-pass-success](https://github.com/Jollyswags/Database/tree/master/3384-team-dominance-by-pass-success) |
 | [3401-find-circular-gift-exchange-chains](https://github.com/Jollyswags/Database/tree/master/3401-find-circular-gift-exchange-chains) |
 | [3421-find-students-who-improved](https://github.com/Jollyswags/Database/tree/master/3421-find-students-who-improved) |
+| [3451-find-invalid-ip-addresses](https://github.com/Jollyswags/Database/tree/master/3451-find-invalid-ip-addresses) |
 | [3475-dna-pattern-recognition](https://github.com/Jollyswags/Database/tree/master/3475-dna-pattern-recognition) |
 | [3482-analyze-organization-hierarchy](https://github.com/Jollyswags/Database/tree/master/3482-analyze-organization-hierarchy) |
 | [3497-analyze-subscription-conversion](https://github.com/Jollyswags/Database/tree/master/3497-analyze-subscription-conversion) |
