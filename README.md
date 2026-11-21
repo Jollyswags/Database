@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0608-tree-node](https://github.com/Jollyswags/Database/tree/master/0608-tree-node) |
 | [0613-shortest-distance-in-a-line](https://github.com/Jollyswags/Database/tree/master/0613-shortest-distance-in-a-line) |
 | [0615-average-salary-departments-vs-company](https://github.com/Jollyswags/Database/tree/master/0615-average-salary-departments-vs-company) |
+| [0618-students-report-by-geography](https://github.com/Jollyswags/Database/tree/master/0618-students-report-by-geography) |
 | [1045-customers-who-bought-all-products](https://github.com/Jollyswags/Database/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Jollyswags/Database/tree/master/1070-product-sales-analysis-iii) |
 | [1076-project-employees-ii](https://github.com/Jollyswags/Database/tree/master/1076-project-employees-ii) |
