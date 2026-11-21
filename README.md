@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1811-find-interview-candidates](https://github.com/Jollyswags/Database/tree/master/1811-find-interview-candidates) |
 | [1831-maximum-transaction-each-day](https://github.com/Jollyswags/Database/tree/master/1831-maximum-transaction-each-day) |
 | [1841-league-statistics](https://github.com/Jollyswags/Database/tree/master/1841-league-statistics) |
+| [1843-suspicious-bank-accounts](https://github.com/Jollyswags/Database/tree/master/1843-suspicious-bank-accounts) |
 | [1867-orders-with-maximum-quantity-above-average](https://github.com/Jollyswags/Database/tree/master/1867-orders-with-maximum-quantity-above-average) |
 | [1907-count-salary-categories](https://github.com/Jollyswags/Database/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Jollyswags/Database/tree/master/1934-confirmation-rate) |
