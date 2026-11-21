@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-market-analysis-ii](https://github.com/Jollyswags/Database/tree/master/1159-market-analysis-ii) |
 | [1174-immediate-food-delivery-ii](https://github.com/Jollyswags/Database/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Jollyswags/Database/tree/master/1193-monthly-transactions-i) |
+| [1194-tournament-winners](https://github.com/Jollyswags/Database/tree/master/1194-tournament-winners) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Jollyswags/Database/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Jollyswags/Database/tree/master/1211-queries-quality-and-percentage) |
 | [1225-report-contiguous-dates](https://github.com/Jollyswags/Database/tree/master/1225-report-contiguous-dates) |
