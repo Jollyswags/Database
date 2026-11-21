@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1965-employees-with-missing-information](https://github.com/Jollyswags/Database/tree/master/1965-employees-with-missing-information) |
 | [1972-first-and-last-call-on-the-same-day](https://github.com/Jollyswags/Database/tree/master/1972-first-and-last-call-on-the-same-day) |
 | [1990-count-the-number-of-experiments](https://github.com/Jollyswags/Database/tree/master/1990-count-the-number-of-experiments) |
+| [2494-merge-overlapping-events-in-the-same-hall](https://github.com/Jollyswags/Database/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
 | [3421-find-students-who-improved](https://github.com/Jollyswags/Database/tree/master/3421-find-students-who-improved) |
 | [3475-dna-pattern-recognition](https://github.com/Jollyswags/Database/tree/master/3475-dna-pattern-recognition) |
