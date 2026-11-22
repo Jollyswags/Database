@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/Jollyswags/Database/tree/master/1280-students-and-examinations) |
 | [1321-restaurant-growth](https://github.com/Jollyswags/Database/tree/master/1321-restaurant-growth) |
 | [1336-number-of-transactions-per-visit](https://github.com/Jollyswags/Database/tree/master/1336-number-of-transactions-per-visit) |
+| [1350-students-with-invalid-departments](https://github.com/Jollyswags/Database/tree/master/1350-students-with-invalid-departments) |
 | [1364-number-of-trusted-contacts-of-a-customer](https://github.com/Jollyswags/Database/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
 | [1384-total-sales-amount-by-year](https://github.com/Jollyswags/Database/tree/master/1384-total-sales-amount-by-year) |
 | [1393-capital-gainloss](https://github.com/Jollyswags/Database/tree/master/1393-capital-gainloss) |
