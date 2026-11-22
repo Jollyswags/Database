@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1532-the-most-recent-three-orders](https://github.com/Jollyswags/Database/tree/master/1532-the-most-recent-three-orders) |
 | [1607-sellers-with-no-sales](https://github.com/Jollyswags/Database/tree/master/1607-sellers-with-no-sales) |
 | [1613-find-the-missing-ids](https://github.com/Jollyswags/Database/tree/master/1613-find-the-missing-ids) |
+| [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/Jollyswags/Database/tree/master/1623-all-valid-triplets-that-can-represent-a-country) |
 | [1635-hopper-company-queries-i](https://github.com/Jollyswags/Database/tree/master/1635-hopper-company-queries-i) |
 | [1645-hopper-company-queries-ii](https://github.com/Jollyswags/Database/tree/master/1645-hopper-company-queries-ii) |
 | [1651-hopper-company-queries-iii](https://github.com/Jollyswags/Database/tree/master/1651-hopper-company-queries-iii) |
