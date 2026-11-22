@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/Jollyswags/Database/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Jollyswags/Database/tree/master/1527-patients-with-a-condition) |
 | [1532-the-most-recent-three-orders](https://github.com/Jollyswags/Database/tree/master/1532-the-most-recent-three-orders) |
+| [1607-sellers-with-no-sales](https://github.com/Jollyswags/Database/tree/master/1607-sellers-with-no-sales) |
 | [1613-find-the-missing-ids](https://github.com/Jollyswags/Database/tree/master/1613-find-the-missing-ids) |
 | [1635-hopper-company-queries-i](https://github.com/Jollyswags/Database/tree/master/1635-hopper-company-queries-i) |
 | [1645-hopper-company-queries-ii](https://github.com/Jollyswags/Database/tree/master/1645-hopper-company-queries-ii) |
