@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jollyswags/Database/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0574-winning-candidate](https://github.com/Jollyswags/Database/tree/master/0574-winning-candidate) |
 | [0578-get-highest-answer-rate-question](https://github.com/Jollyswags/Database/tree/master/0578-get-highest-answer-rate-question) |
+| [0584-find-customer-referee](https://github.com/Jollyswags/Database/tree/master/0584-find-customer-referee) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Jollyswags/Database/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0595-big-countries](https://github.com/Jollyswags/Database/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/Jollyswags/Database/tree/master/0601-human-traffic-of-stadium) |
