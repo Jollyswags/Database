@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1990-count-the-number-of-experiments](https://github.com/Jollyswags/Database/tree/master/1990-count-the-number-of-experiments) |
 | [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/Jollyswags/Database/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/Jollyswags/Database/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
+| [2504-concatenate-the-name-and-the-profession](https://github.com/Jollyswags/Database/tree/master/2504-concatenate-the-name-and-the-profession) |
 | [2752-customers-with-maximum-number-of-transactions-on-consecutive-days](https://github.com/Jollyswags/Database/tree/master/2752-customers-with-maximum-number-of-transactions-on-consecutive-days) |
 | [2991-top-three-wineries](https://github.com/Jollyswags/Database/tree/master/2991-top-three-wineries) |
 | [2994-friday-purchases-ii](https://github.com/Jollyswags/Database/tree/master/2994-friday-purchases-ii) |
