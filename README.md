@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2994-friday-purchases-ii](https://github.com/Jollyswags/Database/tree/master/2994-friday-purchases-ii) |
 | [2995-viewers-turned-streamers](https://github.com/Jollyswags/Database/tree/master/2995-viewers-turned-streamers) |
 | [3051-find-candidates-for-data-scientist-position](https://github.com/Jollyswags/Database/tree/master/3051-find-candidates-for-data-scientist-position) |
+| [3059-find-all-unique-email-domains](https://github.com/Jollyswags/Database/tree/master/3059-find-all-unique-email-domains) |
 | [3061-calculate-trapping-rain-water](https://github.com/Jollyswags/Database/tree/master/3061-calculate-trapping-rain-water) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
 | [3188-find-top-scoring-students-ii](https://github.com/Jollyswags/Database/tree/master/3188-find-top-scoring-students-ii) |
