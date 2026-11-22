@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1867-orders-with-maximum-quantity-above-average](https://github.com/Jollyswags/Database/tree/master/1867-orders-with-maximum-quantity-above-average) |
 | [1907-count-salary-categories](https://github.com/Jollyswags/Database/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Jollyswags/Database/tree/master/1934-confirmation-rate) |
+| [1939-users-that-actively-request-confirmation-messages](https://github.com/Jollyswags/Database/tree/master/1939-users-that-actively-request-confirmation-messages) |
 | [1949-strong-friendship](https://github.com/Jollyswags/Database/tree/master/1949-strong-friendship) |
 | [1965-employees-with-missing-information](https://github.com/Jollyswags/Database/tree/master/1965-employees-with-missing-information) |
 | [1972-first-and-last-call-on-the-same-day](https://github.com/Jollyswags/Database/tree/master/1972-first-and-last-call-on-the-same-day) |
