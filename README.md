@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-first-and-last-call-on-the-same-day](https://github.com/Jollyswags/Database/tree/master/1972-first-and-last-call-on-the-same-day) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Jollyswags/Database/tree/master/1978-employees-whose-manager-left-the-company) |
 | [1990-count-the-number-of-experiments](https://github.com/Jollyswags/Database/tree/master/1990-count-the-number-of-experiments) |
+| [2020-number-of-accounts-that-did-not-stream](https://github.com/Jollyswags/Database/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/Jollyswags/Database/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/Jollyswags/Database/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/Jollyswags/Database/tree/master/2504-concatenate-the-name-and-the-profession) |
