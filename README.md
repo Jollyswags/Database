@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2020-number-of-accounts-that-did-not-stream](https://github.com/Jollyswags/Database/tree/master/2020-number-of-accounts-that-did-not-stream) |
 | [2051-the-category-of-each-member-in-the-store](https://github.com/Jollyswags/Database/tree/master/2051-the-category-of-each-member-in-the-store) |
 | [2112-the-airport-with-the-most-traffic](https://github.com/Jollyswags/Database/tree/master/2112-the-airport-with-the-most-traffic) |
+| [2159-order-two-columns-independently](https://github.com/Jollyswags/Database/tree/master/2159-order-two-columns-independently) |
 | [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/Jollyswags/Database/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/Jollyswags/Database/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/Jollyswags/Database/tree/master/2504-concatenate-the-name-and-the-profession) |
