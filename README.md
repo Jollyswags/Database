@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3252-premier-league-table-ranking-ii](https://github.com/Jollyswags/Database/tree/master/3252-premier-league-table-ranking-ii) |
 | [3262-find-overlapping-shifts](https://github.com/Jollyswags/Database/tree/master/3262-find-overlapping-shifts) |
 | [3268-find-overlapping-shifts-ii](https://github.com/Jollyswags/Database/tree/master/3268-find-overlapping-shifts-ii) |
+| [3278-find-candidates-for-data-scientist-position-ii](https://github.com/Jollyswags/Database/tree/master/3278-find-candidates-for-data-scientist-position-ii) |
 | [3358-books-with-null-ratings](https://github.com/Jollyswags/Database/tree/master/3358-books-with-null-ratings) |
 | [3384-team-dominance-by-pass-success](https://github.com/Jollyswags/Database/tree/master/3384-team-dominance-by-pass-success) |
 | [3401-find-circular-gift-exchange-chains](https://github.com/Jollyswags/Database/tree/master/3401-find-circular-gift-exchange-chains) |
