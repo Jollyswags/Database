@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Jollyswags/Database/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Jollyswags/Database/tree/master/1795-rearrange-products-table) |
 | [1811-find-interview-candidates](https://github.com/Jollyswags/Database/tree/master/1811-find-interview-candidates) |
+| [1821-find-customers-with-positive-revenue-this-year](https://github.com/Jollyswags/Database/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1831-maximum-transaction-each-day](https://github.com/Jollyswags/Database/tree/master/1831-maximum-transaction-each-day) |
 | [1841-league-statistics](https://github.com/Jollyswags/Database/tree/master/1841-league-statistics) |
 | [1843-suspicious-bank-accounts](https://github.com/Jollyswags/Database/tree/master/1843-suspicious-bank-accounts) |
