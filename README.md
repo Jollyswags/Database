@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-order-two-columns-independently](https://github.com/Jollyswags/Database/tree/master/2159-order-two-columns-independently) |
 | [2175-the-change-in-global-rankings](https://github.com/Jollyswags/Database/tree/master/2175-the-change-in-global-rankings) |
 | [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/Jollyswags/Database/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
+| [2238-number-of-times-a-driver-was-a-passenger](https://github.com/Jollyswags/Database/tree/master/2238-number-of-times-a-driver-was-a-passenger) |
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/Jollyswags/Database/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/Jollyswags/Database/tree/master/2504-concatenate-the-name-and-the-profession) |
 | [2668-find-latest-salaries](https://github.com/Jollyswags/Database/tree/master/2668-find-latest-salaries) |
