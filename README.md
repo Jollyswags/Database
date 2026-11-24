@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Jollyswags/Database/tree/master/0595-big-countries) |
 | [0601-human-traffic-of-stadium](https://github.com/Jollyswags/Database/tree/master/0601-human-traffic-of-stadium) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Jollyswags/Database/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0607-sales-person](https://github.com/Jollyswags/Database/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Jollyswags/Database/tree/master/0608-tree-node) |
 | [0612-shortest-distance-in-a-plane](https://github.com/Jollyswags/Database/tree/master/0612-shortest-distance-in-a-plane) |
 | [0613-shortest-distance-in-a-line](https://github.com/Jollyswags/Database/tree/master/0613-shortest-distance-in-a-line) |
