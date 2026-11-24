@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-candidates-for-data-scientist-position-ii](https://github.com/Jollyswags/Database/tree/master/3278-find-candidates-for-data-scientist-position-ii) |
 | [3293-calculate-product-final-price](https://github.com/Jollyswags/Database/tree/master/3293-calculate-product-final-price) |
 | [3322-premier-league-table-ranking-iii](https://github.com/Jollyswags/Database/tree/master/3322-premier-league-table-ranking-iii) |
+| [3328-find-cities-in-each-state-ii](https://github.com/Jollyswags/Database/tree/master/3328-find-cities-in-each-state-ii) |
 | [3358-books-with-null-ratings](https://github.com/Jollyswags/Database/tree/master/3358-books-with-null-ratings) |
 | [3384-team-dominance-by-pass-success](https://github.com/Jollyswags/Database/tree/master/3384-team-dominance-by-pass-success) |
 | [3401-find-circular-gift-exchange-chains](https://github.com/Jollyswags/Database/tree/master/3401-find-circular-gift-exchange-chains) |
