@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1527-patients-with-a-condition](https://github.com/Jollyswags/Database/tree/master/1527-patients-with-a-condition) |
 | [1532-the-most-recent-three-orders](https://github.com/Jollyswags/Database/tree/master/1532-the-most-recent-three-orders) |
 | [1571-warehouse-manager](https://github.com/Jollyswags/Database/tree/master/1571-warehouse-manager) |
+| [1587-bank-account-summary-ii](https://github.com/Jollyswags/Database/tree/master/1587-bank-account-summary-ii) |
 | [1607-sellers-with-no-sales](https://github.com/Jollyswags/Database/tree/master/1607-sellers-with-no-sales) |
 | [1613-find-the-missing-ids](https://github.com/Jollyswags/Database/tree/master/1613-find-the-missing-ids) |
 | [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/Jollyswags/Database/tree/master/1623-all-valid-triplets-that-can-represent-a-country) |
