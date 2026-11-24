@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-number-of-trusted-contacts-of-a-customer](https://github.com/Jollyswags/Database/tree/master/1364-number-of-trusted-contacts-of-a-customer) |
 | [1384-total-sales-amount-by-year](https://github.com/Jollyswags/Database/tree/master/1384-total-sales-amount-by-year) |
 | [1393-capital-gainloss](https://github.com/Jollyswags/Database/tree/master/1393-capital-gainloss) |
+| [1398-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jollyswags/Database/tree/master/1398-customers-who-bought-products-a-and-b-but-not-c) |
 | [1407-top-travellers](https://github.com/Jollyswags/Database/tree/master/1407-top-travellers) |
 | [1459-rectangles-area](https://github.com/Jollyswags/Database/tree/master/1459-rectangles-area) |
 | [1479-sales-by-day-of-the-week](https://github.com/Jollyswags/Database/tree/master/1479-sales-by-day-of-the-week) |
