@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/Jollyswags/Database/tree/master/1393-capital-gainloss) |
 | [1398-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jollyswags/Database/tree/master/1398-customers-who-bought-products-a-and-b-but-not-c) |
 | [1407-top-travellers](https://github.com/Jollyswags/Database/tree/master/1407-top-travellers) |
+| [1412-find-the-quiet-students-in-all-exams](https://github.com/Jollyswags/Database/tree/master/1412-find-the-quiet-students-in-all-exams) |
 | [1440-evaluate-boolean-expression](https://github.com/Jollyswags/Database/tree/master/1440-evaluate-boolean-expression) |
 | [1445-apples-oranges](https://github.com/Jollyswags/Database/tree/master/1445-apples-oranges) |
 | [1459-rectangles-area](https://github.com/Jollyswags/Database/tree/master/1459-rectangles-area) |
