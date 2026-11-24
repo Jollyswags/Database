@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2668-find-latest-salaries](https://github.com/Jollyswags/Database/tree/master/2668-find-latest-salaries) |
 | [2669-count-artist-occurrences-on-spotify-ranking-list](https://github.com/Jollyswags/Database/tree/master/2669-count-artist-occurrences-on-spotify-ranking-list) |
 | [2686-immediate-food-delivery-iii](https://github.com/Jollyswags/Database/tree/master/2686-immediate-food-delivery-iii) |
+| [2688-find-active-users](https://github.com/Jollyswags/Database/tree/master/2688-find-active-users) |
 | [2752-customers-with-maximum-number-of-transactions-on-consecutive-days](https://github.com/Jollyswags/Database/tree/master/2752-customers-with-maximum-number-of-transactions-on-consecutive-days) |
 | [2991-top-three-wineries](https://github.com/Jollyswags/Database/tree/master/2991-top-three-wineries) |
 | [2994-friday-purchases-ii](https://github.com/Jollyswags/Database/tree/master/2994-friday-purchases-ii) |
