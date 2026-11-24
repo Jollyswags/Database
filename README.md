@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3051-find-candidates-for-data-scientist-position](https://github.com/Jollyswags/Database/tree/master/3051-find-candidates-for-data-scientist-position) |
 | [3055-top-percentile-fraud](https://github.com/Jollyswags/Database/tree/master/3055-top-percentile-fraud) |
 | [3056-snaps-analysis](https://github.com/Jollyswags/Database/tree/master/3056-snaps-analysis) |
+| [3058-friends-with-no-mutual-friends](https://github.com/Jollyswags/Database/tree/master/3058-friends-with-no-mutual-friends) |
 | [3059-find-all-unique-email-domains](https://github.com/Jollyswags/Database/tree/master/3059-find-all-unique-email-domains) |
 | [3061-calculate-trapping-rain-water](https://github.com/Jollyswags/Database/tree/master/3061-calculate-trapping-rain-water) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
