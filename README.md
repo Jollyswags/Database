@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1393-capital-gainloss](https://github.com/Jollyswags/Database/tree/master/1393-capital-gainloss) |
 | [1398-customers-who-bought-products-a-and-b-but-not-c](https://github.com/Jollyswags/Database/tree/master/1398-customers-who-bought-products-a-and-b-but-not-c) |
 | [1407-top-travellers](https://github.com/Jollyswags/Database/tree/master/1407-top-travellers) |
+| [1440-evaluate-boolean-expression](https://github.com/Jollyswags/Database/tree/master/1440-evaluate-boolean-expression) |
 | [1459-rectangles-area](https://github.com/Jollyswags/Database/tree/master/1459-rectangles-area) |
 | [1479-sales-by-day-of-the-week](https://github.com/Jollyswags/Database/tree/master/1479-sales-by-day-of-the-week) |
 | [1484-group-sold-products-by-the-date](https://github.com/Jollyswags/Database/tree/master/1484-group-sold-products-by-the-date) |
