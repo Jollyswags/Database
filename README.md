@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3182-find-top-scoring-students](https://github.com/Jollyswags/Database/tree/master/3182-find-top-scoring-students) |
 | [3188-find-top-scoring-students-ii](https://github.com/Jollyswags/Database/tree/master/3188-find-top-scoring-students-ii) |
 | [3198-find-cities-in-each-state](https://github.com/Jollyswags/Database/tree/master/3198-find-cities-in-each-state) |
+| [3204-bitwise-user-permissions-analysis](https://github.com/Jollyswags/Database/tree/master/3204-bitwise-user-permissions-analysis) |
 | [3268-find-overlapping-shifts-ii](https://github.com/Jollyswags/Database/tree/master/3268-find-overlapping-shifts-ii) |
 | [3358-books-with-null-ratings](https://github.com/Jollyswags/Database/tree/master/3358-books-with-null-ratings) |
 | [3384-team-dominance-by-pass-success](https://github.com/Jollyswags/Database/tree/master/3384-team-dominance-by-pass-success) |
