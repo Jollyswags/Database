@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3140-consecutive-available-seats-ii](https://github.com/Jollyswags/Database/tree/master/3140-consecutive-available-seats-ii) |
 | [3166-calculate-parking-fees-and-duration](https://github.com/Jollyswags/Database/tree/master/3166-calculate-parking-fees-and-duration) |
 | [3172-second-day-verification](https://github.com/Jollyswags/Database/tree/master/3172-second-day-verification) |
+| [3182-find-top-scoring-students](https://github.com/Jollyswags/Database/tree/master/3182-find-top-scoring-students) |
 | [3188-find-top-scoring-students-ii](https://github.com/Jollyswags/Database/tree/master/3188-find-top-scoring-students-ii) |
 | [3198-find-cities-in-each-state](https://github.com/Jollyswags/Database/tree/master/3198-find-cities-in-each-state) |
 | [3268-find-overlapping-shifts-ii](https://github.com/Jollyswags/Database/tree/master/3268-find-overlapping-shifts-ii) |
