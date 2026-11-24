@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-number-of-times-a-driver-was-a-passenger](https://github.com/Jollyswags/Database/tree/master/2238-number-of-times-a-driver-was-a-passenger) |
 | [2308-arrange-table-by-gender](https://github.com/Jollyswags/Database/tree/master/2308-arrange-table-by-gender) |
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/Jollyswags/Database/tree/master/2372-calculate-the-influence-of-each-salesperson) |
+| [2394-employees-with-deductions](https://github.com/Jollyswags/Database/tree/master/2394-employees-with-deductions) |
 | [2494-merge-overlapping-events-in-the-same-hall](https://github.com/Jollyswags/Database/tree/master/2494-merge-overlapping-events-in-the-same-hall) |
 | [2504-concatenate-the-name-and-the-profession](https://github.com/Jollyswags/Database/tree/master/2504-concatenate-the-name-and-the-profession) |
 | [2668-find-latest-salaries](https://github.com/Jollyswags/Database/tree/master/2668-find-latest-salaries) |
