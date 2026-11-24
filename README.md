@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/Jollyswags/Database/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Jollyswags/Database/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Jollyswags/Database/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0183-customers-who-never-order](https://github.com/Jollyswags/Database/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Jollyswags/Database/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Jollyswags/Database/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/Jollyswags/Database/tree/master/0197-rising-temperature) |
@@ -82,7 +83,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1789-primary-department-for-each-employee](https://github.com/Jollyswags/Database/tree/master/1789-primary-department-for-each-employee) |
 | [1795-rearrange-products-table](https://github.com/Jollyswags/Database/tree/master/1795-rearrange-products-table) |
 | [1811-find-interview-candidates](https://github.com/Jollyswags/Database/tree/master/1811-find-interview-candidates) |
-| [1821-find-customers-with-positive-revenue-this-year](https://github.com/Jollyswags/Database/tree/master/1821-find-customers-with-positive-revenue-this-year) |
 | [1831-maximum-transaction-each-day](https://github.com/Jollyswags/Database/tree/master/1831-maximum-transaction-each-day) |
 | [1841-league-statistics](https://github.com/Jollyswags/Database/tree/master/1841-league-statistics) |
 | [1843-suspicious-bank-accounts](https://github.com/Jollyswags/Database/tree/master/1843-suspicious-bank-accounts) |
