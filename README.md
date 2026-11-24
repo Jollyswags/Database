@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3118-friday-purchase-iii](https://github.com/Jollyswags/Database/tree/master/3118-friday-purchase-iii) |
 | [3124-find-longest-calls](https://github.com/Jollyswags/Database/tree/master/3124-find-longest-calls) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
+| [3140-consecutive-available-seats-ii](https://github.com/Jollyswags/Database/tree/master/3140-consecutive-available-seats-ii) |
 | [3172-second-day-verification](https://github.com/Jollyswags/Database/tree/master/3172-second-day-verification) |
 | [3188-find-top-scoring-students-ii](https://github.com/Jollyswags/Database/tree/master/3188-find-top-scoring-students-ii) |
 | [3198-find-cities-in-each-state](https://github.com/Jollyswags/Database/tree/master/3198-find-cities-in-each-state) |
