@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3061-calculate-trapping-rain-water](https://github.com/Jollyswags/Database/tree/master/3061-calculate-trapping-rain-water) |
 | [3087-find-trending-hashtags](https://github.com/Jollyswags/Database/tree/master/3087-find-trending-hashtags) |
 | [3089-find-bursty-behavior](https://github.com/Jollyswags/Database/tree/master/3089-find-bursty-behavior) |
+| [3118-friday-purchase-iii](https://github.com/Jollyswags/Database/tree/master/3118-friday-purchase-iii) |
 | [3126-server-utilization-time](https://github.com/Jollyswags/Database/tree/master/3126-server-utilization-time) |
 | [3172-second-day-verification](https://github.com/Jollyswags/Database/tree/master/3172-second-day-verification) |
 | [3188-find-top-scoring-students-ii](https://github.com/Jollyswags/Database/tree/master/3188-find-top-scoring-students-ii) |
