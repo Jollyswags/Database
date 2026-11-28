@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Jollyswags/Database/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0607-sales-person](https://github.com/Jollyswags/Database/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/Jollyswags/Database/tree/master/0608-tree-node) |
+| [0610-triangle-judgement](https://github.com/Jollyswags/Database/tree/master/0610-triangle-judgement) |
 | [0612-shortest-distance-in-a-plane](https://github.com/Jollyswags/Database/tree/master/0612-shortest-distance-in-a-plane) |
 | [0613-shortest-distance-in-a-line](https://github.com/Jollyswags/Database/tree/master/0613-shortest-distance-in-a-line) |
 | [0615-average-salary-departments-vs-company](https://github.com/Jollyswags/Database/tree/master/0615-average-salary-departments-vs-company) |
