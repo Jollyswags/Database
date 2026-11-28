@@ -10,6 +10,7 @@ WITH cte AS (
         ) AS ranking
     FROM employee
 )
+##select * from cte
 SELECT
     d.name AS Department,
     c.name AS Employee,
