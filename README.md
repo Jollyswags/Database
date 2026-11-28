@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1107-new-users-daily-count](https://github.com/Jollyswags/Database/tree/master/1107-new-users-daily-count) |
 | [1112-highest-grade-for-each-student](https://github.com/Jollyswags/Database/tree/master/1112-highest-grade-for-each-student) |
 | [1113-reported-posts](https://github.com/Jollyswags/Database/tree/master/1113-reported-posts) |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/Jollyswags/Database/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/Jollyswags/Database/tree/master/1142-user-activity-for-the-past-30-days-ii) |
 | [1158-market-analysis-i](https://github.com/Jollyswags/Database/tree/master/1158-market-analysis-i) |
 | [1159-market-analysis-ii](https://github.com/Jollyswags/Database/tree/master/1159-market-analysis-ii) |
