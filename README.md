@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1113-reported-posts](https://github.com/Jollyswags/Database/tree/master/1113-reported-posts) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Jollyswags/Database/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1142-user-activity-for-the-past-30-days-ii](https://github.com/Jollyswags/Database/tree/master/1142-user-activity-for-the-past-30-days-ii) |
+| [1148-article-views-i](https://github.com/Jollyswags/Database/tree/master/1148-article-views-i) |
 | [1158-market-analysis-i](https://github.com/Jollyswags/Database/tree/master/1158-market-analysis-i) |
 | [1159-market-analysis-ii](https://github.com/Jollyswags/Database/tree/master/1159-market-analysis-ii) |
 | [1173-immediate-food-delivery-i](https://github.com/Jollyswags/Database/tree/master/1173-immediate-food-delivery-i) |
