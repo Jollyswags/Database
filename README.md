@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1077-project-employees-iii](https://github.com/Jollyswags/Database/tree/master/1077-project-employees-iii) |
 | [1082-sales-analysis-i](https://github.com/Jollyswags/Database/tree/master/1082-sales-analysis-i) |
 | [1083-sales-analysis-ii](https://github.com/Jollyswags/Database/tree/master/1083-sales-analysis-ii) |
+| [1084-sales-analysis-iii](https://github.com/Jollyswags/Database/tree/master/1084-sales-analysis-iii) |
 | [1097-game-play-analysis-v](https://github.com/Jollyswags/Database/tree/master/1097-game-play-analysis-v) |
 | [1107-new-users-daily-count](https://github.com/Jollyswags/Database/tree/master/1107-new-users-daily-count) |
 | [1112-highest-grade-for-each-student](https://github.com/Jollyswags/Database/tree/master/1112-highest-grade-for-each-student) |
