@@ -1,13 +1,11 @@
 # Write your MySQL query statement below
 with cte as (
-    select seller_id, sum(price) as total
+    select seller_id, sum(price) as sm
     from sales
     group by seller_id
 ),
-cte1 as (
-    select seller_id, total, dense_rank() over(order by total desc) as rk
-    from cte
-)
+cte2 as (select * , dense_rank() over (order by sm desc) rk
+from cte)
 select seller_id
-from cte1
+from cte2
 where rk=1
