@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Jollyswags/Database/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Jollyswags/Database/tree/master/0197-rising-temperature) |
 | [0262-trips-and-users](https://github.com/Jollyswags/Database/tree/master/0262-trips-and-users) |
+| [0511-game-play-analysis-i](https://github.com/Jollyswags/Database/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Jollyswags/Database/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Jollyswags/Database/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0574-winning-candidate](https://github.com/Jollyswags/Database/tree/master/0574-winning-candidate) |
