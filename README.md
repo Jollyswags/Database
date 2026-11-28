@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1159-market-analysis-ii](https://github.com/Jollyswags/Database/tree/master/1159-market-analysis-ii) |
 | [1173-immediate-food-delivery-i](https://github.com/Jollyswags/Database/tree/master/1173-immediate-food-delivery-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Jollyswags/Database/tree/master/1174-immediate-food-delivery-ii) |
+| [1179-reformat-department-table](https://github.com/Jollyswags/Database/tree/master/1179-reformat-department-table) |
 | [1193-monthly-transactions-i](https://github.com/Jollyswags/Database/tree/master/1193-monthly-transactions-i) |
 | [1194-tournament-winners](https://github.com/Jollyswags/Database/tree/master/1194-tournament-winners) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Jollyswags/Database/tree/master/1204-last-person-to-fit-in-the-bus) |
