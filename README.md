@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-order-two-columns-independently](https://github.com/Jollyswags/Database/tree/master/2159-order-two-columns-independently) |
 | [2175-the-change-in-global-rankings](https://github.com/Jollyswags/Database/tree/master/2175-the-change-in-global-rankings) |
 | [2205-the-number-of-users-that-are-eligible-for-discount](https://github.com/Jollyswags/Database/tree/master/2205-the-number-of-users-that-are-eligible-for-discount) |
+| [2228-users-with-two-purchases-within-seven-days](https://github.com/Jollyswags/Database/tree/master/2228-users-with-two-purchases-within-seven-days) |
 | [2238-number-of-times-a-driver-was-a-passenger](https://github.com/Jollyswags/Database/tree/master/2238-number-of-times-a-driver-was-a-passenger) |
 | [2308-arrange-table-by-gender](https://github.com/Jollyswags/Database/tree/master/2308-arrange-table-by-gender) |
 | [2372-calculate-the-influence-of-each-salesperson](https://github.com/Jollyswags/Database/tree/master/2372-calculate-the-influence-of-each-salesperson) |
