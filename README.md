@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1571-warehouse-manager](https://github.com/Jollyswags/Database/tree/master/1571-warehouse-manager) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Jollyswags/Database/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1587-bank-account-summary-ii](https://github.com/Jollyswags/Database/tree/master/1587-bank-account-summary-ii) |
+| [1596-the-most-frequently-ordered-products-for-each-customer](https://github.com/Jollyswags/Database/tree/master/1596-the-most-frequently-ordered-products-for-each-customer) |
 | [1607-sellers-with-no-sales](https://github.com/Jollyswags/Database/tree/master/1607-sellers-with-no-sales) |
 | [1613-find-the-missing-ids](https://github.com/Jollyswags/Database/tree/master/1613-find-the-missing-ids) |
 | [1623-all-valid-triplets-that-can-represent-a-country](https://github.com/Jollyswags/Database/tree/master/1623-all-valid-triplets-that-can-represent-a-country) |
