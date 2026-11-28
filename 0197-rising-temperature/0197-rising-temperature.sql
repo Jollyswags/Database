@@ -1,19 +1,9 @@
-WITH PreviousWeatherData AS
-(
-    SELECT 
-        id,
-        recordDate,
-        temperature, 
-        LAG(temperature, 1) OVER (ORDER BY recordDate) AS PreviousTemperature,
-        LAG(recordDate, 1) OVER (ORDER BY recordDate) AS PreviousRecordDate
-    FROM 
-        Weather
+# Write your MySQL query statement below
+with cte as (
+select *, lag(recorddate,1) over (order by recorddate) as prevdate, lag(temperature,1) over (order by recorddate) as prevtemp
+from weather
 )
-SELECT 
-    id 
-FROM 
-    PreviousWeatherData
-WHERE 
-    temperature > PreviousTemperature
-AND 
-    recordDate = DATE_ADD(PreviousRecordDate, INTERVAL 1 DAY);
+
+select id from cte
+where recorddate= Date_add(prevdate, Interval 1 day)
+and temperature>prevtemp
