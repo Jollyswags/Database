@@ -39,7 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0618-students-report-by-geography](https://github.com/Jollyswags/Database/tree/master/0618-students-report-by-geography) |
 | [0619-biggest-single-number](https://github.com/Jollyswags/Database/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Jollyswags/Database/tree/master/0620-not-boring-movies) |
-| [0626-exchange-seats](https://github.com/Jollyswags/Database/tree/master/0626-exchange-seats) |
+| [0627-swap-sex-of-employees](https://github.com/Jollyswags/Database/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Jollyswags/Database/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/Jollyswags/Database/tree/master/1070-product-sales-analysis-iii) |
 | [1076-project-employees-ii](https://github.com/Jollyswags/Database/tree/master/1076-project-employees-ii) |
